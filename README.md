@@ -9,8 +9,11 @@ Olá! Me chamo Matheus Heimrath, atualmente cursando bacharelado em <b>Ciência 
 
 <div align="center" style="display: inline_block"><br>
   <img aligh="center" alt="Python" height="50" width="50" src="https://git.zakscode.com/repo-avatars/002f97340c2781ccfa5d09fde97403fd499c39a9ad5675dc0edf05a8396e9ac5" />	
-  <img aligh="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+  <img aligh="center" alt="SQL" height="50" width="50" src="https://hermes.dio.me/articles/cover/75ce44d7-3f12-449f-bc8c-fc13f28781a2.jpg" />
   <img aligh="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+  <img aligh="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+  <img aligh="center" alt="C#" height="50" width="50" src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" />
+   <img aligh="center" alt="JS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
 </div>
 
 <h2 align="center"> Contato </h2>
